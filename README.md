@@ -8,5 +8,6 @@ https://www.processon.com/view/link/6061e2571e0853028ab6b094#map
 课程地址:https://ke.qq.com/course/3419156?tuin=9a270efa
 具体详情可以加下面微信咨询
 
-### 代码报错 环境异常 技术解答 +下面这个微信 备注:github 何老师
-![技术课资料拾年 (1)](https://user-images.githubusercontent.com/42987957/154217512-4c971483-d19a-42e4-911f-90bd01fe4841.jpg)
+### 代码报错 环境异常 技术求助 +下面这个微信号 备注暗号：何老师
+舟舟小助手-微信号：TuLing060【备注暗号“何老师”才通过】
+![技术课资料舟舟](.jpg)
