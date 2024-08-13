@@ -1,8 +1,6 @@
 # encoding: utf-8
 """
-@author: 夏洛
-@QQ: 1972386194
-@site: https://www.tulingxueyuan.cn/
+@author: 图灵
 @file: 12306余票查询.py
 @time: 2021/5/8 20:18
 """
