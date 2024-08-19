@@ -9,4 +9,4 @@ https://www.processon.com/view/link/6061e2571e0853028ab6b094#map
 
 ### 代码报错 环境异常 技术求助 +下面这个微信号 备注暗号：何老师
 舟舟小助手-微信号：TuLing060【备注暗号“何老师”才通过】
-![技术课资料舟舟]([技术课资料舟舟.png](https://github.com/yufeng8/TLPython-code/blob/70b646fe2a921507b50e1f09e87c4937de0eebe8/%E5%9B%9B%E6%9C%88-%E4%BD%95%E8%80%81%E5%B8%883%20-24.8.19.png))
+![技术课资料舟舟]([技术课资料舟舟.png](四月-何老师3 -24.8.19.png))
